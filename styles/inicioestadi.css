@@ -1,0 +1,120 @@
+
+.contenedor{
+    padding: 60px 0;
+    width: 90%;
+    max-width: 10000px;
+    margin: auto;
+    overflow: hidden;
+}
+
+.titulo{
+    color: #642a73;
+    font-size: 70px;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+
+
+
+figcaption {
+    text-align: center;
+    padding: 20px 60px;
+}
+nav> a:hover{
+    
+    text-decoration: underline;
+}
+
+header .textos-header{
+    display: flex;
+    height: 430px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.textos-header h1{
+    font-size: 50px;
+    color: white;
+}
+.textos-header h2{
+    font-size: 30px;
+    font-weight: 300;
+    color: white;
+}
+.textos-header img{
+    width: 30%;
+    transition: all 300ms;
+    position: relative;
+    object-fit: cover;
+}
+    
+.wave{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+
+
+header estadisticas:nav a {
+    color: black;
+    font-weight: 30;
+    text-decoration: none;
+    font-size: large;
+}
+
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+hr.Strong {
+    border: 5px solid rgba(128, 0, 128, 0.589);
+}
+
+section {
+    font-size: xx-large;
+    color: rgb(31, 7, 95);
+    padding: 60px 0;
+    width: 90%;
+    max-width: 10000px;
+    margin: auto;
+    overflow: hidden;
+}
+
+div {
+    text-align: center;
+}
+
+hr.p1 {
+    border: 2px solid purple;
+}
+
+
+
+.anterior {
+    font-size: 30px;
+    color: rgb(48, 3, 54);
+}
+
+.anterior:hover {
+    color: darkblue;
+    text-decoration: underline;
+}
+
+.posterior {
+    font-size: 10px;
+    color: rgb(48, 3, 54);
+    margin-left: 1399px;
+}
+
+.posterior:hover {
+    color: darkblue;
+    text-decoration: underline;
+}
+
+
